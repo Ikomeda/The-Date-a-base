@@ -7,7 +7,7 @@ We want to simplify and add excitement to date night.
 #### SO THAT WE -
 Can get movie, dinner recipe, and drink recipe recommendations from our chosen preferences.
 ### Links
-[deployed-page](https://lbako801.github.io/The-Date-a-base/)
+[deployed-page](https://ikomeda.github.io/The-Date-a-base/)
 ### Screenshots
 ![screenshot](./assets/images/date-a-base-sceenshot.png)
 ![screenshot](./assets/images/scrcp2.jpg)
